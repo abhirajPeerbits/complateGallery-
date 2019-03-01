@@ -1,5 +1,6 @@
 # Lightbox
 
+Use only bootstrap not use any kind of thirdparty library for gallery
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.3.
 
 ## Development server
